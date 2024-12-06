@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "el dani",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "username": "student1",
+      "password": "mysecurepass"
+    },
+    {
+      "id": "bf15",
+      "username": "goku",
+      "password": "1234"
+    },
+    {
+      "id": "a955",
+      "username": "gojo",
+      "password": "hikari"
+    },
+    {
+      "id": "33af",
+      "username": "profe",
+      "password": "1234"
+    },
+    {
+      "id": "816b",
+      "username": "ElChoroGalaxia37",
+      "password": "1234"
+    },
+    {
+      "id": "5fa1",
+      "username": "se acaba la clase",
+      "password": "1234"
+    }
+  ]
+}
